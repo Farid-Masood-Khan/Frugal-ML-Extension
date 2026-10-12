@@ -1,0 +1,6 @@
+{
+  "demand_r2": 0.9709502720488855,
+  "demand_rmse": 10.302796106490181,
+  "spoilage_accuracy": 0.9266666666666666,
+  "data_provenance": "Documented synthetic benchmark (clearly labelled as synthetic)"
+}
